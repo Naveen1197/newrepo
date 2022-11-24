@@ -1,0 +1,9 @@
+{
+	"name": "latestadf24",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a25db18e-6501-4b6c-828f-a48d205f3fa3",
+		"tenantId": "3f84c46a-2e53-475b-94cf-5c55a64f2817"
+	}
+}
